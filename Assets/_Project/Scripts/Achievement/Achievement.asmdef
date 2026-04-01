@@ -1,0 +1,14 @@
+{
+    "name": "PlaneLedger.Achievement",
+    "rootNamespace": "PlaneLedger.Achievement",
+    "references": ["PlaneLedger.Core", "PlaneLedger.Data", "PlaneLedger.Currency", "PlaneLedger.Collection"],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,14 @@
+{
+    "name": "PlaneLedger.Utils",
+    "rootNamespace": "PlaneLedger.Utils",
+    "references": ["PlaneLedger.Core"],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

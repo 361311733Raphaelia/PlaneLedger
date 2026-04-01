@@ -1,0 +1,14 @@
+{
+    "name": "PlaneLedger.Currency",
+    "rootNamespace": "PlaneLedger.Currency",
+    "references": ["PlaneLedger.Core", "PlaneLedger.Data"],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

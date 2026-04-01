@@ -1,0 +1,14 @@
+{
+    "name": "PlaneLedger.Accounting",
+    "rootNamespace": "PlaneLedger.Accounting",
+    "references": ["PlaneLedger.Core", "PlaneLedger.Data", "PlaneLedger.Currency"],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

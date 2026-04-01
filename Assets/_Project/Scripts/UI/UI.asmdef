@@ -1,0 +1,23 @@
+{
+    "name": "PlaneLedger.UI",
+    "rootNamespace": "PlaneLedger.UI",
+    "references": [
+        "PlaneLedger.Core",
+        "PlaneLedger.Data",
+        "PlaneLedger.Currency",
+        "PlaneLedger.Accounting",
+        "PlaneLedger.Collection",
+        "PlaneLedger.Achievement",
+        "PlaneLedger.PlaneSpace",
+        "PlaneLedger.Utils"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,14 @@
+{
+    "name": "PlaneLedger.Steam",
+    "rootNamespace": "PlaneLedger.Steam",
+    "references": ["PlaneLedger.Core", "PlaneLedger.Data", "PlaneLedger.Achievement"],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,19 @@
+{
+    "name": "PlaneLedger.Editor",
+    "rootNamespace": "PlaneLedger.Editor",
+    "references": [
+        "PlaneLedger.Core",
+        "PlaneLedger.Data",
+        "PlaneLedger.Collection",
+        "PlaneLedger.Achievement"
+    ],
+    "includePlatforms": ["Editor"],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
