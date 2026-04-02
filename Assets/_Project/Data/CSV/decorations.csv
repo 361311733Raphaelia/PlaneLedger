@@ -1,0 +1,89 @@
+Id,DisplayName,Slot,Style,Rarity,CanDropFromPool,TokenPrice,UnlockAchievementId,HasSpecialEffect,VisualDescription,Version
+SLOT-01-S00-001,破旧账本,Book,Default,Common,false,0,,false,破旧的硬皮本 封面磨损 默认初始,1.0
+SLOT-01-S00-002,硬壳商务本,Book,Default,Common,true,50,,false,黑色硬壳商务记事本 简洁大方,1.0
+SLOT-01-S00-003,空白之书,Book,Default,Epic,false,0,B-005,true,纯白封面 发光文字浮现 万卷著者奖励,1.0
+SLOT-01-S01-001,深渊典籍,Book,Cthulhu,Epic,false,0,D-007,true,深紫色封面 触手纹路 眼球装饰,1.0
+SLOT-01-S01-002,肉质皮面书,Book,Cthulhu,Epic,true,0,,true,暗红肉质纹理封面 脉搏跳动效果,1.0
+SLOT-01-S01-003,星之碎章,Book,Cthulhu,Legendary,false,0,G-009,true,深空星辰封面 碎裂效果 克苏鲁传说,1.0
+SLOT-01-S01-004,蘑菇孢子册,Book,Cthulhu,Rare,true,150,,false,菌类纹理封面 孢子装饰 墨绿色调,1.0
+SLOT-01-S02-001,云纹锦册,Book,ChineseClassical,Rare,true,150,,false,云纹锦缎封面 金线装饰 古典优雅,1.0
+SLOT-01-S02-002,玉简账录,Book,ChineseClassical,Epic,false,0,B-010,true,玉质竹简造型 发光篆文 百日铸魂,1.0
+SLOT-01-S02-003,帝王金册,Book,ChineseClassical,Legendary,false,0,E-013,true,金色龙纹封面 帝王气息 古风传说,1.0
+SLOT-01-S02-004,墨客手稿,Book,ChineseClassical,Rare,false,150,,false,宣纸质感 毛笔字迹 水墨风格,1.0
+SLOT-01-S03-001,硬壳商务本,Book,Modern,Common,true,50,,false,现代简约风格 灰白配色 几何线条,1.0
+SLOT-01-S03-002,收银机卷纸,Book,Modern,Rare,false,0,B-003,false,收银纸卷轴造型 百笔流水成就,1.0
+SLOT-01-S03-003,账房先生册,Book,Modern,Rare,false,0,C-013,false,民国风格账簿 精打细算成就,1.0
+SLOT-01-S04-001,全息数据板,Book,Futuristic,Rare,false,150,,false,透明全息界面 蓝光数据流,1.0
+SLOT-01-S04-002,量子存储器,Book,Futuristic,Epic,false,0,C-005,true,发光量子芯片造型 第一桶金成就,1.0
+SLOT-01-S04-003,AI神经册,Book,Futuristic,Legendary,false,0,E-014,true,神经网络纹理 数据脉冲 未来传说,1.0
+SLOT-01-S04-004,末日备忘录,Book,Futuristic,Rare,true,150,,false,金属质感 末日风格 赛博朋克,1.0
+SLOT-01-S05-001,魔法羊皮卷,Book,Fantasy,Rare,true,150,,false,古旧羊皮纸 魔法符文边框,1.0
+SLOT-01-S05-002,精灵银叶册,Book,Fantasy,Epic,false,0,E-004,true,银色叶片装帧 精灵文字 发光,1.0
+SLOT-01-S05-003,龙鳞秘录,Book,Fantasy,Legendary,false,0,,true,龙鳞纹理封面 火焰效果 奇幻传说,1.0
+SLOT-01-S05-004,精灵树皮本,Book,Fantasy,Common,true,50,,false,树皮质感 绿叶装饰 自然风格,1.0
+SLOT-01-LTD-001,位面创世录,Book,Default,Legendary,false,0,G-011,true,创世纪特殊封面 首发限定 金光闪烁,1.0
+SLOT-01-LTD-002,镜中账本,Book,Default,Legendary,false,0,G-018,true,镜面反射封面 全成就达成奖励,1.0
+SLOT-01-LTD-003,百日铸魂账本,Book,Default,Epic,false,0,B-010,true,铸魂火焰封面 百日连续记账,1.0
+SLOT-01-LTD-004,年轮主题账本,Book,Default,Legendary,false,0,B-011,true,年轮木纹封面 365天连续记账,1.0
+SLOT-01-LTD-005,半年铁律账本,Book,Default,Rare,false,0,C-018,false,铁质封面 半年不超预算,1.0
+SLOT-01-LTD-006,残章博士账本,Book,Default,Epic,false,0,E-007,true,书页飞散封面 全残章收集,1.0
+SLOT-01-LTD-007,自由宣言账本,Book,Default,Legendary,false,0,C-012,true,自由之翼封面 财务自由宣言,1.0
+SLOT-02-S00-001,素白薄纱,Curtain,Default,Common,false,0,,false,白色薄纱窗帘 简洁素雅 默认初始,1.0
+SLOT-02-S01-001,触手垂幔,Curtain,Cthulhu,Epic,true,0,,true,深紫色触手造型垂幔 蠕动效果,1.0
+SLOT-02-S02-001,绸缎流苏帘,Curtain,ChineseClassical,Rare,true,150,,false,朱红绸缎 金色流苏 古典华贵,1.0
+SLOT-02-S03-001,简约百叶窗,Curtain,Modern,Common,true,50,,false,白色百叶窗 现代简约 工业感,1.0
+SLOT-02-S04-001,光纤帘,Curtain,Futuristic,Rare,true,150,,false,蓝色光纤线条 数据流动 科技感,1.0
+SLOT-02-S05-001,星云薄纱,Curtain,Fantasy,Epic,true,0,,true,星空纹理薄纱 星光闪烁效果,1.0
+SLOT-02-LTD-001,月相窗帘,Curtain,Default,Rare,false,0,A-008,false,月相变化图案 月之守护成就,1.0
+SLOT-02-LTD-002,月度守护窗帘,Curtain,Default,Rare,false,0,B-009,false,金色守护纹路 月度坚守成就,1.0
+SLOT-02-LTD-003,六十日窗帘,Curtain,Default,Rare,false,0,B-031,false,六十道纹路 连续记账60天,1.0
+SLOT-02-LTD-004,半自由窗帘,Curtain,Default,Rare,false,0,C-011,false,半透明渐变 半自由之身,1.0
+SLOT-02-LTD-005,藏书家窗帘,Curtain,Default,Rare,false,0,E-006,false,书页纹理 藏书家成就,1.0
+SLOT-03-S00-001,平静湖山,WindowView,Default,Common,false,0,,false,静谧湖面远山 柔和光线 默认初始,1.0
+SLOT-03-S01-001,深海异界,WindowView,Cthulhu,Legendary,false,0,E-012,true,深海触手生物 发光水母 克苏鲁,1.0
+SLOT-03-S02-001,水墨山河,WindowView,ChineseClassical,Rare,true,150,,false,水墨画风格山水 远山近水,1.0
+SLOT-03-S03-001,都市霓虹,WindowView,Modern,Rare,true,150,,false,都市夜景 霓虹灯光 高楼林立,1.0
+SLOT-03-S04-001,轨道太空站,WindowView,Futuristic,Epic,true,0,,true,太空站外景 星球悬浮 宇宙深空,1.0
+SLOT-03-S05-001,悬浮岛群,WindowView,Fantasy,Epic,true,0,,true,漂浮岛屿 瀑布流下 魔法水晶,1.0
+SLOT-03-LTD-001,黎明窗外景,WindowView,Default,Rare,false,0,A-009,false,黎明日出景色 黎明使者成就,1.0
+SLOT-03-LTD-002,富贵窗外景,WindowView,Default,Rare,false,0,C-006,false,金色花园景色 小有积蓄成就,1.0
+SLOT-03-LTD-003,永续窗外景,WindowView,Default,Rare,false,0,C-015,false,永恒常青景色 生存天数破千,1.0
+SLOT-04-S00-001,素色木地板,Carpet,Default,Common,false,0,,false,浅色木质地板 简洁自然 默认初始,1.0
+SLOT-04-S01-001,眼球纹阵,Carpet,Cthulhu,Epic,true,0,,true,地面眼球纹阵 偶尔眨眼效果,1.0
+SLOT-04-S02-001,云纹锦缎毯,Carpet,ChineseClassical,Rare,true,150,,false,云纹图案地毯 朱红金线,1.0
+SLOT-04-S03-001,几何拼色毯,Carpet,Modern,Common,true,50,,false,几何色块拼接 现代简约风,1.0
+SLOT-04-S04-001,发光地板,Carpet,Futuristic,Rare,true,150,,false,蓝色发光线条地板 科技纹路,1.0
+SLOT-04-S05-001,星图地毯,Carpet,Fantasy,Rare,true,150,,false,星座图案地毯 深蓝底色 银色星线,1.0
+SLOT-04-LTD-001,铁律地毯,Carpet,Default,Rare,false,0,C-003,false,铁灰色纹理 三月铁律成就,1.0
+SLOT-04-LTD-002,万卷地毯,Carpet,Default,Rare,false,0,B-005,false,书页纹理 万卷著者成就,1.0
+SLOT-04-LTD-003,极简地毯,Carpet,Default,Rare,false,0,D-009,false,极简纯色 断舍离成就,1.0
+SLOT-04-LTD-004,半年地毯,Carpet,Default,Rare,false,0,B-032,false,半年纹路 连续记账180天,1.0
+SLOT-05-S00-001,普通吊灯,Lamp,Default,Common,false,0,,false,普通圆形吊灯 暖黄光 默认初始,1.0
+SLOT-05-S01-001,发光触手灯,Lamp,Cthulhu,Epic,true,0,,true,触手造型灯具 绿色发光 蠕动,1.0
+SLOT-05-S02-001,宫灯笼,Lamp,ChineseClassical,Rare,true,150,,false,红色宫灯 金色流苏 古典,1.0
+SLOT-05-S03-001,工业吊灯,Lamp,Modern,Common,true,50,,false,黑色金属工业吊灯 裸灯泡,1.0
+SLOT-05-S04-001,悬浮光环,Lamp,Futuristic,Epic,true,0,,true,悬浮光环 全息投影光源,1.0
+SLOT-05-S05-001,水晶吊灯,Lamp,Fantasy,Rare,true,150,,false,水晶棱镜吊灯 彩虹折射,1.0
+SLOT-05-LTD-001,永恒灯具,Lamp,Default,Rare,false,0,A-005,false,永恒之光 累计登录365天,1.0
+SLOT-05-LTD-002,双月灯具,Lamp,Default,Rare,false,0,A-020,false,双月造型 连续登录60天,1.0
+SLOT-06-S00-001,普通书桌,Furniture,Default,Common,false,0,,false,原木书桌+椅子 简洁实用 默认,1.0
+SLOT-06-S01-001,骨质书桌,Furniture,Cthulhu,Epic,true,0,,true,骨骼造型桌面 暗色 诡异纹路,1.0
+SLOT-06-S02-001,红木案台,Furniture,ChineseClassical,Rare,true,150,,false,红木案台 雕花椅 古典书房,1.0
+SLOT-06-S03-001,简约工位,Furniture,Modern,Common,true,50,,false,白色简约工位 显示器支架,1.0
+SLOT-06-S04-001,悬浮台,Furniture,Futuristic,Legendary,false,0,,true,悬浮操作台 全息界面 未来传说,1.0
+SLOT-06-S05-001,魔法书桌,Furniture,Fantasy,Rare,true,150,,false,藤蔓缠绕书桌 发光符文,1.0
+SLOT-06-LTD-001,史诗书桌,Furniture,Default,Rare,false,0,B-004,false,华丽书桌 千笔史诗成就,1.0
+SLOT-06-LTD-002,双修书桌,Furniture,Default,Rare,false,0,E-005,false,双色书桌 双修之道成就,1.0
+SLOT-06-LTD-003,七日历挂件,Furniture,Default,Rare,false,0,B-007,false,七日日历装饰 七日契约成就,1.0
+SLOT-07-S00-001,无特效,Ambient,Default,Common,false,0,,false,无任何粒子效果 干净背景,1.0
+SLOT-07-S01-001,孢子飘浮,Ambient,Cthulhu,Legendary,false,0,G-009,true,绿色孢子飘浮粒子 克苏鲁氛围,1.0
+SLOT-07-S02-001,金箔飞散,Ambient,ChineseClassical,Epic,true,0,,true,金色箔片飘散 华丽古风,1.0
+SLOT-07-S03-001,尘埃光束,Ambient,Modern,Rare,true,150,,false,斜射光束中的灰尘粒子 温暖,1.0
+SLOT-07-S04-001,数据流,Ambient,Futuristic,Epic,true,0,,true,蓝色数据流粒子 矩阵雨效果,1.0
+SLOT-07-S05-001,星尘粒子,Ambient,Fantasy,Rare,true,150,,false,银白星尘缓慢飘落 梦幻,1.0
+SLOT-07-LTD-001,跨年特效,Ambient,Default,Rare,false,0,A-012,true,烟花粒子效果 跨年守夜,1.0
+SLOT-07-LTD-002,新年特效,Ambient,Default,Rare,false,0,B-019,true,红色金色粒子 元旦启账,1.0
+SLOT-07-LTD-003,金币特效,Ambient,Default,Rare,false,0,C-005,true,金币飘落粒子 第一桶金,1.0
+SLOT-07-LTD-004,生机绿光特效,Ambient,Default,Rare,false,0,E-004,true,绿色生命粒子 生命进化中,1.0
+SLOT-07-LTD-005,设计师特效,Ambient,Default,Rare,false,0,E-011,true,彩色画笔粒子 位面设计师,1.0
+SLOT-07-LTD-006,生日特效,Ambient,Default,Rare,false,0,G-003,true,蛋糕烛光粒子 生日快乐,1.0
