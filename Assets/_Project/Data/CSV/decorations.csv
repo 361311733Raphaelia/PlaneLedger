@@ -1,4 +1,4 @@
-Id,DisplayName,Slot,Style,Rarity,CanDropFromPool,TokenPrice,UnlockAchievementId,HasSpecialEffect,VisualDescription,Version
+﻿Id,DisplayName,Slot,Style,Rarity,CanDropFromPool,TokenPrice,UnlockAchievementId,HasSpecialEffect,VisualDescription,Version
 SLOT-01-S00-001,破旧账本,Book,Default,Common,false,0,,false,破旧的硬皮本 封面磨损 默认初始,1.0
 SLOT-01-S00-002,硬壳商务本,Book,Default,Common,true,50,,false,黑色硬壳商务记事本 简洁大方,1.0
 SLOT-01-S00-003,空白之书,Book,Default,Epic,false,0,B-005,true,纯白封面 发光文字浮现 万卷著者奖励,1.0

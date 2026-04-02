@@ -1,4 +1,4 @@
-Id,DisplayName,Description,Category,CheckTiming,ConditionType,TargetValue,IsHidden,TokenReward,DecorationRewardId,Version
+﻿Id,DisplayName,Description,Category,CheckTiming,ConditionType,TargetValue,IsHidden,TokenReward,DecorationRewardId,Version
 A-001,位面初醒,首次登录游戏,Login,Realtime,TotalLoginDays,1,false,10,,1.0
 A-002,归来者,累计登录7天,Login,Realtime,TotalLoginDays,7,false,20,,1.0
 A-003,常驻居民,累计登录30天,Login,Realtime,TotalLoginDays,30,false,50,,1.0

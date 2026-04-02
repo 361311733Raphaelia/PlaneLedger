@@ -1,4 +1,4 @@
-Id,DisplayName,BookSource,Faction,Rarity,TokenPrice,OriginalQuote,PlaneAnnotation
+﻿Id,DisplayName,BookSource,Faction,Rarity,TokenPrice,OriginalQuote,PlaneAnnotation
 R-F01,巴比伦第一律,巴比伦最富有的人,Wealth,Common,30,每次收入至少留下十分之一给自己。,位面法则第一条：流入的能量必须有一部分留在空间里否则空间将永远荒芜。
 R-F02,黄金渴望被增值,巴比伦最富有的人,Wealth,Common,30,存在钱袋里的钱会越来越少流动的钱才会越来越多。,静止的能量会腐烂。只有让它流动生长位面才不会停滞。
 R-F03,欲望的陷阱,巴比伦最富有的人,Wealth,Common,30,花钱的欲望会随着收入增长而膨胀这是人的本性。,位面会自动吸收你注入的能量但它也会向你索取更多。警惕无底洞。
