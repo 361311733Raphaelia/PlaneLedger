@@ -1,0 +1,2 @@
+- [位面账簿项目概况](project_plane_ledger.md) — Unity游戏化记账工具，代码骨架已完成，用户待搭建场景
+- [用户基本信息](user_profile.md) — solo开发者，Unity新手，需详细操作指导，中文沟通
