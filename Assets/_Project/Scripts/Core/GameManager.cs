@@ -43,15 +43,16 @@ namespace PlaneLedger.Core
             // 2. 加载存档
             _saveData = _saveSystem.Load();
 
-            // 3. 注册所有服务（各模块在此注册，后续实现时取消注释）
-            // ServiceLocator.Register(new TokenManager(_saveData));
-            // ServiceLocator.Register(new DailyMatrixService(_saveData));
-            // ServiceLocator.Register(new MonthlyOverviewService(_saveData));
-            // ServiceLocator.Register(new AmortizationService(_saveData));
-            // ServiceLocator.Register(new DecorationSystem(_saveData));
-            // ServiceLocator.Register(new WisdomCardSystem(_saveData));
-            // ServiceLocator.Register(new DropSystem(_saveData));
-            // ServiceLocator.Register(new AchievementManager(_saveData));
+            // 3. 注册所有服务
+            var tokenManager = new TokenManager(_saveData);
+            ServiceLocator.Register(tokenManager);
+            ServiceLocator.Register(new DailyMatrixService(_saveData));
+            ServiceLocator.Register(new MonthlyOverviewService(_saveData));
+            ServiceLocator.Register(new AmortizationService(_saveData));
+
+            // 收集系统（装饰、卡片、掉落、成就）需要 DatabaseManager 提供 SO 数据
+            // DatabaseManager 在主场景中通过自身 Awake 注册到 ServiceLocator
+            // 因此收集系统由 MainSceneBootstrap 在主场景 Start 中延迟初始化
 
             // 4. 处理每日登录
             HandleDailyLogin();
@@ -279,6 +280,11 @@ namespace PlaneLedger.Core
             _saveSystem.SaveCached();
             Debug.Log($"[GameManager] 每日结算完成: {entryCount}笔, 总额{totalExpense:F2}元, 连续记账{settlement.ConsecutiveAccountingDays}天");
         }
+
+        /// <summary>
+        /// 获取存档数据（供 UI 层读取状态使用）。
+        /// </summary>
+        public SaveData GetSaveData() => _saveData;
 
         private void OnSaveRequested(SaveRequested _)
         {
